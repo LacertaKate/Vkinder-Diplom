@@ -6,5 +6,5 @@ line = range(0, 1000)
 
 host = '127.0.0.1'
 user = 'lackate'
-password = 'vjcrdf1010'
+password = '*****'
 db_name = 'diplom'
